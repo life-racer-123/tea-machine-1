@@ -1,2 +1,2 @@
 # tea-machine-1
-sample
+-take a bowl
